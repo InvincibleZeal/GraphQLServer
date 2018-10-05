@@ -1,5 +1,4 @@
 # GraphQLServer
-___
 
 #### 1. Install Dependencies
 
