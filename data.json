@@ -1,0 +1,64 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Ritesh Ganjewala",
+      "email": "riteshganjewala@gmail.com",
+      "age": 20
+    },
+    {
+      "id": "2",
+      "name": "Sushil Choudhary",
+      "email": "sushilchoudhary@gmail.com",
+      "age": 20
+    },
+    {
+      "id": "3",
+      "name": "Santosh Budhwani",
+      "email": "santoshbudhwani@gmail.com",
+      "age": 19
+    },
+    {
+      "id": "4",
+      "name": "Shivam Choudhary",
+      "email": "shivamchoudhary@gmail.com",
+      "age": 20
+    },
+    {
+      "id": "5",
+      "name": "Atanu Gain",
+      "email": "atanugain@gmail.com",
+      "age": 21
+    },
+    {
+      "id": "6",
+      "name": "Anoop Gautam",
+      "email": "atanugain@gmail.com",
+      "age": 24
+    },
+    {
+      "id": "7",
+      "name": "Aman Singh",
+      "email": "amansingh@gmail.com",
+      "age": 21
+    },
+    {
+      "id": "8",
+      "name": "Md Mobshshir Nayeem",
+      "email": "mdmobshshirnayeem@gmail.com",
+      "age": 20
+    },
+    {
+      "id": "9",
+      "name": "Saurabh Yaduvanshi",
+      "email": "saurabhyaduvanshi@gmail.com",
+      "age": 19
+    },
+    {
+      "id": "10",
+      "name": "Deepak Kumar",
+      "email": "deepakkumar@gmail.com",
+      "age": "20"
+    }
+  ]
+}
